@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "narxVbb2kONpGZtYNw1fQSqkF47P/rCqiVRvBp28Ug9CT/uUTZdkosjWdGmjTPJr3KF9Huba7xyziU3EZJQTnw==",
+  "success": true,
+  "projectFilePath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coral\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\coral\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\coral\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

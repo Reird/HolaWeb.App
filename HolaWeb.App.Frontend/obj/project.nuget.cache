@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P4619A+qOQdRfKc3sNVKm4qenv1TN+H7u4VfUyr+H+7qZJCXy/MLrh/Vhs9pBNjubqRgHl7hT0fnKKSW1+UUiA==",
+  "success": true,
+  "projectFilePath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coral\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
